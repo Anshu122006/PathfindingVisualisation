@@ -1,4 +1,4 @@
-# Pathfinding Visualisation <br/><br/>
+# Pathfinding Visualisation
 ## How to use the .exe file <br/>
 press s -> set start point <br/>
 press e -> set end point <br/>
