@@ -1,5 +1,5 @@
-# Pathfinding Visualisation
-How to use the .exe file <br/>
+# Pathfinding Visualisation <br/><br/>
+## How to use the .exe file <br/>
 press s -> set start point <br/>
 press e -> set end point <br/>
 press b -> to start bfs search <br/>
