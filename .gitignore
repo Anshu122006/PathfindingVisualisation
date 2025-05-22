@@ -1,0 +1,39 @@
+# Build artifacts
+*.o
+*.obj
+*.lo
+*.a
+*.la
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+*.cmake
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# SDL2 compiled artifacts (if local SDL2 source is included)
+SDL2-*/
+
+# Generated binaries (optional)
+bin/
+
+# Misc
+*.swp
+*.bak
+*~
+
+tests/
